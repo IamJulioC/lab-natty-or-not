@@ -20,23 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O que é real? 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Duas imagens geradas por IA do Canvas e Mcrosoft Copilot.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA do Canvas e Mcrosoft Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em imagens simples, prédio e cachorro.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Mesmo o mais simples que é um prédio, saiu extramamente artificial.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
